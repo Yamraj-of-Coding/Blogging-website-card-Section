@@ -1,0 +1,28 @@
+
+.blog .card_container .cards:hover {
+
+    height: 30.5;
+    width: 20.5;
+    box-shadow: 0 0 5px #d1d3e0;
+
+}
+
+.blog .card_container .cards .card_header:hover {
+
+   text-decoration: underline solid white;
+
+}
+
+
+.blog .card_container .cards .card_footer .footer_img img:hover {
+
+    border: 3px solid #d1d3e0;
+    transform: scale(1.1);
+}
+
+.blog .card_container .cards .card_footer button:hover {
+
+
+    background-color: #802bb1;
+    color: #d1d3e0;
+}
